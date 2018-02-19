@@ -21,7 +21,9 @@ or use yarn
 ``` bash
 $ yarn add react-native-multiple-select
 ```
-
+## Dependancy   
+added This to use in React Native Web
+https://www.npmjs.com/package/react-native-web-lists
 
 ## Usage
 Note: Ensure to add and configure [react-native-vector-icons](https://github.com/oblador/react-native-vector-icons) to your project before using this package.
